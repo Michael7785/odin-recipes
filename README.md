@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project for the Odin Project. It is a basic recipe website showcasing 3 recipes. It is intended to showcase my basic skills in HTML, and I presume later I will also update this to include some CSS styling, or perhaps even some JS.
